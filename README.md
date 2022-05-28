@@ -33,7 +33,7 @@ I'm looking for my first tech job on this wonderful wordl!
   <a href="https://www.instagram.com/anic4cio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/Vinicius%20Anic%C3%A1cio#2239" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:anicaciovinicius36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anic4cio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anic4cio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br/>
  
    ![snake animation](https://github.com/anic4cio/anic4cio/blob/output/github-contribution-grid-snake2.svg)
    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
