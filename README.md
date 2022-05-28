@@ -36,5 +36,7 @@ I'm looking for my first tech job on this wonderful wordl!
   <a href="https://www.linkedin.com/in/anic4cio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br/>
 </div>
  
+<div>
    ![snake animation](https://github.com/anic4cio/anic4cio/blob/output/github-contribution-grid-snake2.svg)
    ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<div/>
