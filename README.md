@@ -13,8 +13,8 @@ _I'm looking for my first tech job on this wonderful wordl!_
 <br/>
 <div align="center">
   <a href="https://github.com/ani4cio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anic4cio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic4cio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anic4cio&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic4cio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
