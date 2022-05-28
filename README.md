@@ -1,11 +1,11 @@
-### Hi there, i'm Vinicius Anicácio! 👋
+### Hi there, i'm Vinicius Anicácio! 🚀
  
-I'm looking for my first tech job on this wonderful wordl!
+_I'm looking for my first tech job on this wonderful wordl!_
 
 - 📚 I’m current study at Internacional University Center
 - 📖 I’m currently learning Javascript frameworks, like Node
 - 👯 I’m looking to collaborate on some projects
-- 🏋️‍♂️ I realy like sports and outdoor activities
+- 💪🏽 I realy like sports and outdoor activities
 - 💬 Ask me about anything
 - 🎯 I'm going to be a awersome full stack developer
 - ⚡ Fun fact: You got the easter egg bio?
@@ -13,8 +13,8 @@ I'm looking for my first tech job on this wonderful wordl!
 <br/>
 <div align="center">
   <a href="https://github.com/ani4cio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anic4cio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic4cio&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anic4cio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic4cio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
