@@ -2,8 +2,8 @@
  
 💙 _I'm looking for my first tech job on this wonderful world!_
 
-- 📚 I'm currently study at International University Centerer
-- 📖 I'm currently learning Javascript frameworks, like Node
+- 📚 I'm currently graduating in Systems Analysis and Development
+- 📖 I'm currently learning Javascript frameworks
 - 👯 I'm looking to collaborate on some projects
 - 💪🏽 I really like sports and outdoor activities
 - 💬 Ask me about anything
