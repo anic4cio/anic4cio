@@ -3,12 +3,12 @@
 💙 _I'm looking for my first tech job on this wonderful world!_
 
 - 📚 I'm currently graduating in Systems Analysis and Development
-- 📖 I'm currently learning Javascript frameworks
-- 👯 I'm looking to collaborate on some projects
+- 📖 I'm learning Typescript and Javascript frameworks
+- 👯 I'm looking to collaborate on some projects (including to finish my own projects)
 - 💪🏽 I really like sports and outdoor activities
-- 💬 Ask me about anything
+- 💬 Ask me about anything your mind can think
 - 🎯 I will become an amazing full stack developer
-- ⚡ Fun fact: You got the easter egg bio?
+- ⚡ Fun fact: Do you got the easter egg bio?
 
 <br/>
 <div align="center">
