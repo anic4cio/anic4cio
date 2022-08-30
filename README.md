@@ -21,19 +21,22 @@
 
 <div style="display: inline_block">
  <a href="https://www.javascript.com/"><img height="27" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
- <a href="https://www.python.org/"><img height="27" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
  <a href="https://developer.mozilla.org/docs/Web/HTML"><img height="27" alt="HTML" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> 
  <a href="https://developer.mozilla.org/docs/Web/CSS"><img height="27" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
  <a href="https://www.linux.com/what-is-linux/"><img height="27" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+   <a href="https://www.docker.com/"><img height="27" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://www.mongodb.com/"><img height="27" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+ <a href="https://kubernetes.io/"><img height="27" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
  
 ## And I'm studying
 
  <a href="https://nodejs.org/en/"><img height="27" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a> 
  <a href="https://www.typescriptlang.org/"><img heigth="27" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
- <a href="https://reactjs.org/"><img height="27" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+ <a href="https://kafka.apache.org/"><img heigth="27" alt="apache-kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"></a>
  <a href="https://www.postgresql.org/"><img height="27" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
- <a href="https://www.mongodb.com/"><img height="27" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img height="27" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://www.mysql.com/"><img height="27" alt="mysql" src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ <a href="https://cloud.google.com/"><img height="27" alt="google-cloud-plataform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+
 
 ## Contact me
 <div> 
