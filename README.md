@@ -1,6 +1,6 @@
 ## Hi there, I'm Vinicius Anicácio! 🚀
  
-💙 _I'm looking for my first tech job on this wonderful world!_
+💙 _I'm looking new challenges from a tech job on this wonderful world!_
 
 - 📚 I'm currently graduating in Systems Analysis and Development
 - 📖 I'm learning Typescript and Javascript frameworks
