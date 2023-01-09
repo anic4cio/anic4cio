@@ -45,6 +45,6 @@
  <a href="mailto:anicaciovinicius36@gmail.com"><img height="29" alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/anic4cio" target="_blank"><img height="29" alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-   ![snake animation](https://github.com/anic4cio/anic4cio/blob/output/github-contribution-grid-snake2.svg)
+   ![snake animation](https://raw.githubusercontent.com/anic4cio/anic4cio/output/github-contribution-grid-snake-dark.svg)
  
 <div/>
