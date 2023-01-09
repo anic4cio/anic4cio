@@ -3,7 +3,9 @@ name: Generate snake game
 on:
   schedule:
     - cron: "0 */12 * * *" 
-    
+  push:
+    branches:
+    - master
 jobs:
   generate:
     runs-on: ubuntu-latest
