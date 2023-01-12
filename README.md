@@ -13,8 +13,8 @@
 <br/>
 <div align="center">
  <a href="https://github.com/anic4cio">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anic4cio&show_icons=true&theme=dark&count_private=true&hide=stars"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anic4cio&include_all_commits=true&layout=compact&langs_count=7&theme=dark"/><a/>
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anic4cio&show_icons=true&theme=dark&count_private=true&hide=stars"/>
+ <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anic4cio&include_all_commits=true&layout=compact&langs_count=7&theme=dark"/><a/>
 </div>
  
 ## Technologies and tools that I work with:
