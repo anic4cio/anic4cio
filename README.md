@@ -20,15 +20,16 @@
 ## Technologies and tools that I work with:
 
 <div style="display: inline_block">
- <a href="https://www.javascript.com/"><img height="29" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=black&logoColor=yellow"></a>
  <a href="https://www.typescriptlang.org/"><img heigth="29" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&color=black&logoColor=blue"></a>
  <a href="https://nodejs.org/en/"><img height="29" alt="node-js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&color=black&logoColor=green"></a>
  <a href="https://developer.mozilla.org/docs/Web/HTML"><img height="29" alt="HTML" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&&color=black&logoColor=orange"></a> 
  <a href="https://developer.mozilla.org/docs/Web/CSS"><img height="29" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=black&logoColor=blue"></a>
  <a href="https://www.linux.com/what-is-linux/"><img height="29" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=black&logoColor=yellow"></a>
-   <a href="https://www.docker.com/"><img height="29" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&color=black"></a>
-  <a href="https://www.mongodb.com/"><img height="29" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&color=black"></a>
+ <a href="https://ubuntu.com/"><img height="29" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-2CA5E0?style=for-the-badge&logo=ubuntu&color=black&logoColor=orange"></a>
+ <a href="https://www.docker.com/"><img height="29" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&color=black"></a>
+ <a href="https://www.mongodb.com/"><img height="29" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&color=black"></a>
  <a href="https://kubernetes.io/"><img height="29" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&color=black"></a>
+ <a href="https://pptr.dev/"><img height="29" alt="pupeeterr" src="https://img.shields.io/badge/Puppeteer-FFCA28?style=for-the-badge&logo=puppeteer&color=black&logoColor=green"></a>
  <a href="https://cloud.google.com/"><img height="29" alt="google-cloud-plataform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&color=black"></a>
  <a href="https://firebase.google.com/"><img height="29" alt="google-firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&color=black&logoColor=yellow"></a>
  <a href="https://git-scm.com/"><img height="29" alt="git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"></a>
